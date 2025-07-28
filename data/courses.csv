@@ -1,0 +1,9 @@
+course_id,title,category,difficulty
+1,Python基础入门,Programming,Beginner
+2,机器学习实战,Machine Learning,Intermediate
+3,Web开发全栈,Web Development,Intermediate
+4,深度学习原理,AI,Advanced
+5,数据分析实战,Data Science,Intermediate
+6,JavaScript高级编程,Programming,Advanced
+7,算法与数据结构,Computer Science,Intermediate
+8,前端框架React,Web Development,Beginner
